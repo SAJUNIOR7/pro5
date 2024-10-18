@@ -3,4 +3,3 @@ Dept of AI & ML-Samartth
 bangalore 
 git-5th program
 hiiiiii
-rak adi naz chan
